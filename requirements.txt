@@ -1,0 +1,17 @@
+# This project is a simple C++ console application and has no external dependencies.
+# The following are the prerequisites required to compile and run the program:
+
+# 1. C++ Compiler supporting C++11 standard or later (e.g., C++17)
+#    - GNU Compiler Collection (GCC) / g++
+#    - Clang
+#    - Microsoft Visual C++ Compiler (MSVC)
+
+# 2. Standard C++ Libraries
+#    - iostream (for console I/O)
+#    - fstream (for file handling)
+#    - string
+#    - cstdio (for file removal/renaming)
+#    - iomanip (for formatting)
+
+# Compilation Command:
+# g++ LMS.cpp -o LMS
