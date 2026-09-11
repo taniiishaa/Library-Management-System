@@ -32,7 +32,7 @@ The system focuses on organizing library information and making everyday operati
               ┌──────────────┼──────────────┐
               ↓              ↓              ↓
         ┌───────────┐  ┌───────────┐  ┌────────────┐
-        │   Books   │  │  Members  │  │ Transactions│
+        │   Books   │  │  Members  │  │Transactions│
         └─────┬─────┘  └─────┬─────┘  └──────┬─────┘
               │              │               │
               └──────────────┼───────────────┘
